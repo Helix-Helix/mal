@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Lami-Lami/mali",
-    "repository": "https://github.com/Lami-Lami/mali",
+    "website": "https://github.com/Lami-Lami/malin",
+    "repository": "https://github.com/Lami-Lami/malin",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
